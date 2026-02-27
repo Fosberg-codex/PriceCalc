@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   appleWebApp: {
     capable: true,
     statusBarStyle: "black-translucent",
-    title: "PriceCalc",
+    title: "PriceCalculator",
   },
   icons: {
     apple: "/icons/icon-192.svg",

@@ -1,6 +1,6 @@
 {
   "name": "Product Price Calculator",
-  "short_name": "PriceCalc",
+  "short_name": "PriceCalculator",
   "description": "Calculate unit cost, profit, selling prices and margins. By Fosberg Addai from Addapaul Ventures.",
   "start_url": "/",
   "display": "standalone",
